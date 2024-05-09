@@ -1,0 +1,12 @@
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\bin\Debug\cine1w1.exe.config
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\bin\Debug\cine1w1.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\bin\Debug\cine1w1.pdb
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\obj\Debug\cine1w1.csprojResolveAssemblyReference.cache
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\obj\Debug\cine1w1.Form1.resources
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\obj\Debug\cine1w1.Properties.Resources.resources
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\obj\Debug\cine1w1.csproj.GenerateResource.Cache
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\obj\Debug\cine1w1.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\cine1w1\cine1w1\obj\Debug\cine1w1.pdb
+F:\Trabajo laboratorio II\cine1w1\cine1w1\bin\Debug\cine1w1.exe.config
+F:\Trabajo laboratorio II\cine1w1\cine1w1\obj\Debug\cine1w1.exe
+F:\Trabajo laboratorio II\cine1w1\cine1w1\obj\Debug\cine1w1.pdb
